@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class task1 {
+public class task1_1 {
     public static void main(String[] args) {
         System.out.printf("Write your number N: ");
         Scanner num = new Scanner(System.in);
