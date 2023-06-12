@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.stream.IntStream;
 
-public class task2_1 {
+public class task2_2 {
     private static File log;
     private static FileWriter fileWriter;
 
